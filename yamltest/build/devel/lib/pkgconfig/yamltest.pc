@@ -1,0 +1,8 @@
+prefix=/home/huqidi/catkin_ws/src/yamltest/build/devel
+
+Name: yamltest
+Description: Description of yamltest
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

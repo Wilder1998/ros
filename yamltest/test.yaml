@@ -1,0 +1,25 @@
+waypoints:
+  - x: 0
+    y: 0
+    z: 4
+    yaw: 0
+    roll : 0
+    pitch : 0
+  - x: 0
+    y: 0
+    z: 4
+    yaw: 1.57
+    roll : 0
+    pitch : 0
+  - x: 0
+    y: 0
+    z: 4
+    yaw: 3.14
+    roll : 0
+    pitch : 0
+  - x: 0
+    y: 0
+    z: 4
+    yaw: 3.14
+    roll : 0
+    pitch : 0

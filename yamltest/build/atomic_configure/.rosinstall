@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/huqidi/catkin_ws/src/yamltest/build/devel/setup.sh
